@@ -1,9 +1,5 @@
 # hasil-seleksi
 
-hasil-seleksi
-
-
-# Passing Grade
 
 [![Join the chat at https://gitter.im/hasil-seleksi/Lobby](https://badges.gitter.im/hasil-seleksi/Lobby.svg)](https://gitter.im/hasil-seleksi/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/hasil-seleksi/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/hasil-seleksi/?branch=master)
@@ -15,7 +11,7 @@ hasil-seleksi
 [![Monthly Downloads](https://poser.pugx.org/bantenprov/hasil-seleksi/d/monthly)](https://packagist.org/packages/bantenprov/hasil-seleksi)
 [![Daily Downloads](https://poser.pugx.org/bantenprov/hasil-seleksi/d/daily)](https://packagist.org/packages/bantenprov/hasil-seleksi)
 
-Passing Grade
+Hasil Seleksi
 
 ### Install via composer
 
