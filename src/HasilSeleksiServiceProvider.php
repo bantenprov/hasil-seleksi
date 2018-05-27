@@ -1,4 +1,6 @@
-<?php namespace Bantenprov\HasilSeleksi;
+<?php 
+
+namespace Bantenprov\HasilSeleksi;
 
 use Illuminate\Support\ServiceProvider;
 use Bantenprov\HasilSeleksi\Console\Commands\HasilSeleksiCommand;
@@ -134,7 +136,7 @@ class HasilSeleksiServiceProvider extends ServiceProvider
         $packageAssetsPath = __DIR__.'/resources/assets';
 
         $this->publishes([
-            $packageAssetsPath => public_path('vendor/hasil-seleksi'),
-        ], 'public');
+            $packageAssetsPath => resource_path('assets'),
+        ], 'hasil-seleksi-assets');
     }
 }
