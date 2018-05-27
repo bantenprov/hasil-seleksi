@@ -169,7 +169,7 @@ composer dump-autoload
                 sidebar: resolve => require(['~/components/Sidebar.vue'], resolve),
             },
             meta: {
-                title: "View Passing Grade",
+                title: "Hasil Hasil Seleksi",
             },
         },
         //...
@@ -217,7 +217,7 @@ composer dump-autoload
                 sidebar: resolve => require(['~/components/Sidebar.vue'], resolve),
             },
             meta: {
-                title: "View Passing Grade",
+                title: "Hasil Hasil Seleksi",
             },
         },
         //...
