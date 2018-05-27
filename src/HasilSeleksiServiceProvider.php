@@ -1,4 +1,6 @@
-<?php namespace Bantenprov\HasilSeleksi;
+<?php 
+
+namespace Bantenprov\HasilSeleksi;
 
 use Illuminate\Support\ServiceProvider;
 use Bantenprov\HasilSeleksi\Console\Commands\HasilSeleksiCommand;
